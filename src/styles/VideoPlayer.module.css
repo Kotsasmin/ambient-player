@@ -1,0 +1,16 @@
+.videoPlayer {
+    position: relative;
+    width: 60%;
+    margin: 50px auto;
+    padding: 20px;
+    background: transparent;
+  }
+  
+  .videoElement {
+    display: block;
+    width: 100%;
+    border-radius: 15px;
+    z-index: 2;
+    position: relative;
+  }
+  
