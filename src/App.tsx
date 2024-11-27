@@ -25,9 +25,9 @@ const MainPage: React.FC = () => {
 
       {!videoPath && (
         <div className={styles.buttonContainer}>
-          <button onClick={handleLoadSampleVideo} className={styles.button}>
+          {/* Hello World<button onClick={handleLoadSampleVideo} className={styles.button}>
             Load Sample Video
-          </button>
+          </button>*/}
           
 
           <button
