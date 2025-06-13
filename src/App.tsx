@@ -7,9 +7,6 @@ const MainPage: React.FC = () => {
   const videoRef = useRef<HTMLVideoElement | null>(null);
 
 
-  const handleLoadSampleVideo = () => {
-    setVideoPath("./src/assets/sample.mp4");
-  };
 
 
   const handleLoadNewVideo = (event: React.ChangeEvent<HTMLInputElement>) => {

@@ -1,4 +1,4 @@
-import React, { useRef, useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import chroma from "chroma-js";
 import styles from "../styles/VideoPlayer.module.css";
 import AmbientEffect from "./AmbientEffect";
