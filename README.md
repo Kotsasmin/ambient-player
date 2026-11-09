@@ -59,4 +59,4 @@ This will create an optimized production build of the app inside the `build` fol
 
 ## License
 
-This project is provided for personal viewing and learning purposes only. The code may not be reproduced, modified, or used for any commercial purposes. Unauthorized commercial use, including but not limited to resale or redistribution for profit, is strictly prohibited.
+This project is licensed under the [MIT License](LICENSE).
